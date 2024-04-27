@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Main">
+    <file>chizu.png</file>
+  </qresource>
+  <qresource prefix="Buttons">
+    <file>cross.png</file>
+    <file>tick.png</file>
+  </qresource>
+</RCC>
